@@ -40,6 +40,7 @@
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="24dp"
+        android:fontFamily="@font/homemade_apple"
         android:text="“There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle.”\n – Albert Einstein"
         android:textAlignment="center"
         app:layout_constraintEnd_toEndOf="@+id/mainQuote"
